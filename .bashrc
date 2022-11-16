@@ -1,6 +1,6 @@
-
 # preffered ls
 alias l='ls -hal --color=auto'
+alias ls='ls -1 --color=auto'
 
 # prompts for destructive cmds
 alias rm='/bin/rm -i'
